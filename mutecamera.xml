@@ -1,0 +1,5 @@
+<permissions>
+    <privapp-permissions package="com.tapps.mutecamera">
+        <permission name="android.permission.MODIFY_AUDIO_ROUTING" />
+    </privapp-permissions>
+</permissions>
